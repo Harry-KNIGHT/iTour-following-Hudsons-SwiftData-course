@@ -12,6 +12,7 @@
 		3C6FFB1C2AD2955E009EDFE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C6FFB1B2AD2955E009EDFE5 /* Assets.xcassets */; };
 		3C6FFB1F2AD2955E009EDFE5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C6FFB1E2AD2955E009EDFE5 /* Preview Assets.xcassets */; };
 		3C6FFB262AD29D91009EDFE5 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6FFB252AD29D91009EDFE5 /* Destination.swift */; };
+		3C6FFB282AD2A428009EDFE5 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C6FFB272AD2A428009EDFE5 /* EditDestinationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		3C6FFB1B2AD2955E009EDFE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C6FFB1E2AD2955E009EDFE5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C6FFB252AD29D91009EDFE5 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
+		3C6FFB272AD2A428009EDFE5 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				3C6FFB172AD2955D009EDFE5 /* iTourApp.swift */,
 				3C6FFB192AD2955D009EDFE5 /* ContentView.swift */,
+				3C6FFB272AD2A428009EDFE5 /* EditDestinationView.swift */,
 				3C6FFB252AD29D91009EDFE5 /* Destination.swift */,
 				3C6FFB1B2AD2955E009EDFE5 /* Assets.xcassets */,
 				3C6FFB1D2AD2955E009EDFE5 /* Preview Content */,
@@ -143,6 +146,7 @@
 				3C6FFB1A2AD2955D009EDFE5 /* ContentView.swift in Sources */,
 				3C6FFB182AD2955D009EDFE5 /* iTourApp.swift in Sources */,
 				3C6FFB262AD29D91009EDFE5 /* Destination.swift in Sources */,
+				3C6FFB282AD2A428009EDFE5 /* EditDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
